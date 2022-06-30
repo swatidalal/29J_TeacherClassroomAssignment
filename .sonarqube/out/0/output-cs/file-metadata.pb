@@ -1,0 +1,10 @@
+d
+[C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\ApiDbContext.csutf-8j
+aC:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Entities\ClassRoom.csutf-8h
+_C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Entities\Teacher.csutf-8y
+pC:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Migrations\20220630012214_initial.csutf-8„
+yC:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Migrations\20220630012214_initial.Designer.csutf-8~
+sC:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Migrations\ApiDbContextModelSnapshot.csutf-8†
+{C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\obj\Debug\net6.0\ApiDbLayerTC.GlobalUsings.g.csutf-8—
+‹C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8„
+yC:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\obj\Debug\net6.0\ApiDbLayerTC.AssemblyInfo.csutf-8

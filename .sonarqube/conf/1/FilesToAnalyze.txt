@@ -1,0 +1,14 @@
+﻿C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\ApiModel\ClassRoomApiModel.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\ApiModel\TeacherAndClassRoomApiModel.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\ApiModel\TeacherApiModel.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\Controllers\TeachersController.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\MappingConfiguration\AutoMapperProfile.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\Program.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\WeatherForecast.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\obj\Debug\net6.0\29J_TeacherClassroomAssignment.GlobalUsings.g.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\obj\Debug\net6.0\29J_TeacherClassroomAssignment.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\obj\Debug\net6.0\29J_TeacherClassroomAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\appsettings.Development.json
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\appsettings.json
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\29J_TeacherClassroomAssignment\Properties\launchSettings.json

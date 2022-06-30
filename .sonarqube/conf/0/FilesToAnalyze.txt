@@ -1,0 +1,6 @@
+﻿C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\ApiDbContext.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Entities\ClassRoom.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Entities\Teacher.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Migrations\20220630012214_initial.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Migrations\20220630012214_initial.Designer.cs
+C:\Users\LENOVO\source\repos\29J_TeacherClassroomAssignmentSol\ApiDbLayerTC\Migrations\ApiDbContextModelSnapshot.cs
