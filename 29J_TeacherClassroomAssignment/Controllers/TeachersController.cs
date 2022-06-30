@@ -56,7 +56,7 @@ namespace _29J_TeacherClassroomAssignment.Controllers
           }
             //return await _context.Teachers.ToListAsync();
             var obj = _context.Teachers.Include(t => t.ClassRoomList).ToList();
-            return Ok(_mapper.Map<List<Teacher>>(obj));
+            return Ok(_mapper.Map<List<TeacherApiModel>>(obj));
 
 
         }
@@ -133,6 +133,23 @@ namespace _29J_TeacherClassroomAssignment.Controllers
 
             return Ok();
         }
+
+        [HttpPatch("{id}")]
+        public async Task<ActionResult> PatchTeacher(string Name, string Address, int id)
+        {
+            var teacherNameAndAddressUpdate = _context.Teachers.Where(t => t.Id == id).FirstOrDefault();
+            if (teacherNameAndAddressUpdate == null)
+            {
+                return BadRequest();
+            }
+            teacherNameAndAddressUpdate.Name = Name;
+            teacherNameAndAddressUpdate.Address = Address;
+            _context.Update(teacherNameAndAddressUpdate);
+            await _context.SaveChangesAsync();
+            return Ok("updated  !");
+        }
+
+
 
         private bool TeacherExists(int id)
         {
