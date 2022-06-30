@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29J_TeacherClassroomAssignment", "29J_TeacherClassroomAssignment\29J_TeacherClassroomAssignment.csproj", "{C6197467-2E62-4902-85EB-607CA431314E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDbLayerTC", "ApiDbLayerTC\ApiDbLayerTC.csproj", "{EB5FB242-9BBD-41CB-8587-41C1D1020DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6197467-2E62-4902-85EB-607CA431314E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6197467-2E62-4902-85EB-607CA431314E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6197467-2E62-4902-85EB-607CA431314E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6197467-2E62-4902-85EB-607CA431314E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5FB242-9BBD-41CB-8587-41C1D1020DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5FB242-9BBD-41CB-8587-41C1D1020DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5FB242-9BBD-41CB-8587-41C1D1020DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5FB242-9BBD-41CB-8587-41C1D1020DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DB5FB9-C604-4B15-B488-F2394A63C532}
+	EndGlobalSection
+EndGlobal
